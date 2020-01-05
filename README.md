@@ -1,4 +1,4 @@
-# hello-world-tensorflow
+# tensorflow-hello-world
 
 Hello world to Tensorflow!
 
